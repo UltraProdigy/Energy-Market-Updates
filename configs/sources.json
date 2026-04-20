@@ -1,0 +1,15 @@
+{
+  "timezone": "America/New_York",
+  "download_directory": "var/downloads",
+  "report_directory": "reports/daily",
+  "state_directory": "data/state",
+  "sources": [
+    {
+      "id": "pjm-mic",
+      "type": "pjm_committee",
+      "name": "PJM Market Implementation Committee",
+      "page_url": "https://www.pjm.com/committees-and-groups/committees/mic",
+      "baseline_on_first_run": true
+    }
+  ]
+}

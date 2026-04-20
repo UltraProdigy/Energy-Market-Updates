@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "energy-market-updates"
+version = "0.1.0"
+description = "Daily scraping and summarization pipeline for energy market committee materials."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "beautifulsoup4>=4.12.3",
+  "openai>=1.40.0",
+  "openpyxl>=3.1.5",
+  "pypdf>=5.0.0",
+  "python-docx>=1.1.2",
+  "requests>=2.32.3",
+  "xlrd>=2.0.1",
+]
+
+[project.scripts]
+energy-market-updates = "energy_market_updates.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
