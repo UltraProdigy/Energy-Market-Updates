@@ -31,6 +31,51 @@
       "title": "Item 01-1 - 2026 Annual Black Start Revenue Education - PJM",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260409-special/item-01-1---2026-annual-black-start-revenue-education---pjm.pdf"
     },
+    "0144ca4414bd9dd2ad617671ca44798708d221d09131c7f085253d4c20d53a5b": {
+      "content_sha256": "19b7e89987909daff6e37994a504f4a0ad23732bf49735e0b5951b12f088aece",
+      "extension": "pdf",
+      "file_name": "20260506-informational-only---pjm-net-energy-injections-quarterly-review.pdf",
+      "fingerprint": "0144ca4414bd9dd2ad617671ca44798708d221d09131c7f085253d4c20d53a5b",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Informational Only - PJM Net Energy Injections Quarterly Review",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-informational-only---pjm-net-energy-injections-quarterly-review.pdf"
+    },
+    "03a04dff3918fc0c64502b313c3ecdf9f71281f77e175baed1df23c162a8e89d": {
+      "content_sha256": "c2d1eaa5ab69ed2283efe046502620a114195477167d92bd75b9189201c910d3",
+      "extension": "pdf",
+      "file_name": "20260506-agenda.pdf",
+      "fingerprint": "03a04dff3918fc0c64502b313c3ecdf9f71281f77e175baed1df23c162a8e89d",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Agenda",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-agenda.pdf"
+    },
+    "03d2db7541bbce360a4e77ebad8913e90cbae780ba5ecc88e68d7cc8431f4871": {
+      "content_sha256": "aa09ed8ea24f0b3a81c04bcaf96b3e51e86cc7e354d4ab8f0bbfed96f50f9aba",
+      "extension": "pdf",
+      "file_name": "20260506-item-04-1---resource-scheduling-prior-to-the-day-ahead-energy-market---phase-1---manual-11-revisions---redline.pdf",
+      "fingerprint": "03d2db7541bbce360a4e77ebad8913e90cbae780ba5ecc88e68d7cc8431f4871",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 04-1 - Resource Scheduling Prior to the Day-Ahead Energy Market - Phase 1 - Manual 11 Revisions - Redline",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-04-1---resource-scheduling-prior-to-the-day-ahead-energy-market---phase-1---manual-11-revisions---redline.pdf"
+    },
     "04ec2144ebf83bdf45457541df1a13b6798eaab0195deccc9c2834cbee05b07e": {
       "content_sha256": null,
       "extension": "xls",
@@ -45,6 +90,21 @@
       "summary_mode": "baseline",
       "title": "Item 03-4 - Options & Packages Matrix - Load Management & Price Responsive Demand Event Performance",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260204/20260204-item-03-4---options--packages-matrix---load-management--price-responsive-demand-event-performance.xls"
+    },
+    "06da74d36b6086729d4b6585c734190185cd5d4e4d8c95feaeffad464b99c9b2": {
+      "content_sha256": "5338bc4e548a7aade1cdb55d6c4a8bd5a7e5b233d31a6c4f16c21315b54fe738",
+      "extension": "pdf",
+      "file_name": "20260506-item-09-1---resource-scheduling-prior-to-the-day-ahead-energy-market---work-plan.pdf",
+      "fingerprint": "06da74d36b6086729d4b6585c734190185cd5d4e4d8c95feaeffad464b99c9b2",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 09-1 - Resource Scheduling Prior to the Day-Ahead Energy Market - Work Plan",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-09-1---resource-scheduling-prior-to-the-day-ahead-energy-market---work-plan.pdf"
     },
     "086212c42c3877b4ca160f19c7fa4e6b683568b3dcefa1fd5a3401ccf190897b": {
       "content_sha256": null,
@@ -90,6 +150,21 @@
       "summary_mode": "baseline",
       "title": "Item 01-3 - Load Management & Price Responsive Demand Event Performance - IMM",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260120/20260120-item-01-3---load-management--price-responsive-demand-event-performance---imm.pdf"
+    },
+    "0c6ecba3815059de53bff82412b110795c8cdcc0e4b7892aea5b99e715953bc4": {
+      "content_sha256": "2b3c543ebbeacb794330566b9047bbe78c5d6e8d2d7e08038dbb223924a3298f",
+      "extension": "pdf",
+      "file_name": "20260506-item-07---external-resource-capactiy-clearing---final-proposal-report.pdf",
+      "fingerprint": "0c6ecba3815059de53bff82412b110795c8cdcc0e4b7892aea5b99e715953bc4",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 07 - External Resource Capactiy Clearing - Final Proposal Report",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-07---external-resource-capactiy-clearing---final-proposal-report.pdf"
     },
     "0d51370fdf445f14a897218d2200707fec9c2ce42dabb6a95610288854be080c": {
       "content_sha256": null,
@@ -181,6 +256,21 @@
       "title": "Agenda-doc",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260204/20260204-agenda-doc.docx"
     },
+    "1739211c4c7fa937e022a624f607edc78915c11dd311ad484c95a0f69315cb41": {
+      "content_sha256": "eb014c1d68fd3d5494463c95153ab9ea1e4af64b8cef182d7fff3015f64ca760",
+      "extension": "pdf",
+      "file_name": "20260506-item-01-1---manual-15-revisions-on-regulation-redesign-phase-2---executive-summary.pdf",
+      "fingerprint": "1739211c4c7fa937e022a624f607edc78915c11dd311ad484c95a0f69315cb41",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 01-1 - Manual 15 Revisions on Regulation Redesign Phase 2 - Executive Summary",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-01-1---manual-15-revisions-on-regulation-redesign-phase-2---executive-summary.pdf"
+    },
     "1861ae822fb1ec8a40f1ff3bcddb5a84ca553d78e44e2b8fd4024798b7c19599": {
       "content_sha256": null,
       "extension": "pdf",
@@ -195,6 +285,21 @@
       "summary_mode": "baseline",
       "title": "Item 02-3a - DR Penalties Matrix Additions - IMM",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260311/20260311-item-02-3a---dr-penalties-matrix-additions---imm.pdf"
+    },
+    "1869401d6b75aae87acd6e8f71987f5d43cffcbfb7f9406a114c2da6b5266d7c": {
+      "content_sha256": "ecdc9e3bc421551abd17ee6e8e3c39df1d8c49e17358c882afd12793ac61615f",
+      "extension": "pdf",
+      "file_name": "20260506-item-08-3---dual-fuel-elcc-classes---education.pdf",
+      "fingerprint": "1869401d6b75aae87acd6e8f71987f5d43cffcbfb7f9406a114c2da6b5266d7c",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 08-3 - Dual Fuel ELCC Classes - Education",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-08-3---dual-fuel-elcc-classes---education.pdf"
     },
     "196a30fa2a0afe03e8fb436bdeaae24e6f8944921f6449dae4987a9657c67062": {
       "content_sha256": null,
@@ -256,6 +361,21 @@
       "title": "Item 09-2 - Load Management & Price Responsive Demand Event Performance - Voltus Proposal",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260107/20260107-item-09-2---load-management--price-responsive-demand-event-performance---voltus-proposal.pdf"
     },
+    "20291451a30ac84a5c5409f2901fbfdc750b49cfb07825b1f7b43be4b658dc0b": {
+      "content_sha256": "06ab1d181756c94e4a29f825cbea7cf5fd6f2797f03d2bcf2bc60cef10af5787",
+      "extension": "xlsx",
+      "file_name": "20260506-item-10---options--packages-matrix---fuel-cost-policy-clarifications-for-affiliated-fuel-suppliers.xlsx",
+      "fingerprint": "20291451a30ac84a5c5409f2901fbfdc750b49cfb07825b1f7b43be4b658dc0b",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 10 - Options & Packages Matrix - Fuel Cost Policy Clarifications for Affiliated Fuel Suppliers",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-10---options--packages-matrix---fuel-cost-policy-clarifications-for-affiliated-fuel-suppliers.xlsx"
+    },
     "2038af95ba611e1a3a27f9ef3002716c0afb839282bda88778d5dcc1ffeef3ec": {
       "content_sha256": null,
       "extension": "docx",
@@ -300,6 +420,21 @@
       "summary_mode": "baseline",
       "title": "Item 04-2 - Fuel Cost Policy Updates for Manual 15 - Issue Charge",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260107/20260107-item-04-2---fuel-cost-policy-updates-for-manual-15---issue-charge.pdf"
+    },
+    "244cf18d234a3152bff19c4e83a104f1fed64202a1faef6200f8dd13e0120661": {
+      "content_sha256": "1083419b3235030ba963ec14af63d8e9aa0a323abb21be62f3ffcbd9d9a57355",
+      "extension": "pdf",
+      "file_name": "20260506-item-02-3---schedule-2-penalty-calculations---presentation.pdf",
+      "fingerprint": "244cf18d234a3152bff19c4e83a104f1fed64202a1faef6200f8dd13e0120661",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 02-3 - Schedule 2 Penalty Calculations - Presentation",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-02-3---schedule-2-penalty-calculations---presentation.pdf"
     },
     "25dca0ec133ac93a420684b92e786f884f33ea545af14c463b3a43a52d57394f": {
       "content_sha256": null,
@@ -421,6 +556,21 @@
       "title": "Item 09 - Options & Packages Matrix - Fuel Cost Policy Clarifications for Affiliated Fuel Suppliers",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260204/20260204-item-09---options--packages-matrix---fuel-cost-policy-clarifications-for-affiliated-fuel-suppliers.xlsx"
     },
+    "3217d18934fb22558a1f694c09d5ffb967cf52151d4bc91183c0b38c59d77264": {
+      "content_sha256": "a573204a5eff1f93e6a29bbfe244e4fc9c5940b76c00627952714a57a992ea43",
+      "extension": "pdf",
+      "file_name": "20260506-item-08-1---status-quo-for-offering-dual-fuel-units---education.pdf",
+      "fingerprint": "3217d18934fb22558a1f694c09d5ffb967cf52151d4bc91183c0b38c59d77264",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 08-1 - Status Quo for Offering Dual Fuel Units - Education",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-08-1---status-quo-for-offering-dual-fuel-units---education.pdf"
+    },
     "3332cf37e9a389d8a61653a537e153189abdac1fae67bc2088d1cc81feee3740": {
       "content_sha256": null,
       "extension": "pdf",
@@ -451,6 +601,36 @@
       "title": "Draft Minutes - MIC - 12.3.2025",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260107/20260107-draft-minutes---mic---1232025.pdf"
     },
+    "34a51fb7b9474edee302c71b5e2eceb050b949a9bff3d3b4d48f7ac6cf6066bf": {
+      "content_sha256": "3372b884a5cc610be8eca771549d4a4b9e9aed07ccefe8dfd51c1339e4d58289",
+      "extension": "pdf",
+      "file_name": "20260506-item-08-2---dual-fuel-schedule-requirements---education.pdf",
+      "fingerprint": "34a51fb7b9474edee302c71b5e2eceb050b949a9bff3d3b4d48f7ac6cf6066bf",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 08-2 - Dual Fuel Schedule Requirements - Education",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-08-2---dual-fuel-schedule-requirements---education.pdf"
+    },
+    "36af5218f69178d764a77e30f6d6f75c30d1523bd57a6659678c13958591b141": {
+      "content_sha256": "fc8a4986dd10e7e18751d601aa526b50586a3d26761b88417338befa9025d61b",
+      "extension": "pdf",
+      "file_name": "20260506-informational-only---mic-interregional-coordination-update.pdf",
+      "fingerprint": "36af5218f69178d764a77e30f6d6f75c30d1523bd57a6659678c13958591b141",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Informational Only - MIC Interregional Coordination Update",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-informational-only---mic-interregional-coordination-update.pdf"
+    },
     "38bc6a6bf7004edeac5e7498c0f2bdae8c39b41ae30d0d6880292b6b9223b473": {
       "content_sha256": null,
       "extension": "pdf",
@@ -465,6 +645,21 @@
       "summary_mode": "baseline",
       "title": "Informational Only - Manual 03 Revisions - Presentation",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260408/20260408-informational-only---manual-03-revisions---presentation.pdf"
+    },
+    "3f982359289d929b22f61c97c0ababe3ada308c3dd96d5b4b949a4ef52f1bbe9": {
+      "content_sha256": "2ef4063f54a60da28ebb739b59739ea8966f023e6d5349b00534192a93850558",
+      "extension": "pdf",
+      "file_name": "20260506-item-01-2---manual-15-revisions-on-regulation-redesign-phase-2---presentation.pdf",
+      "fingerprint": "3f982359289d929b22f61c97c0ababe3ada308c3dd96d5b4b949a4ef52f1bbe9",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 01-2 - Manual 15 Revisions on Regulation Redesign Phase 2 - Presentation",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-01-2---manual-15-revisions-on-regulation-redesign-phase-2---presentation.pdf"
     },
     "403ee655901625349e8cf4a4e116891af104e834c0ab66b7752c4cedb01427cf": {
       "content_sha256": null,
@@ -690,6 +885,21 @@
       "summary_mode": "baseline",
       "title": "Item 02-2 - Load Management & Price Responsive Demand Event Performance - Voltus Proposal",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260311/20260311-item-02-2---load-management--price-responsive-demand-event-performance---voltus-proposal.pdf"
+    },
+    "6641f9afaed0d36a6840482ea58df315db8606a404db87160fb1164055ddbf3a": {
+      "content_sha256": "beb229e33900a20f26c1315417bf725db79b31da2a0d5594e14955774699dcc0",
+      "extension": "pdf",
+      "file_name": "20260506-item-02-1---schedule-2-penalty-calculations---problem-statement.pdf",
+      "fingerprint": "6641f9afaed0d36a6840482ea58df315db8606a404db87160fb1164055ddbf3a",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 02-1 - Schedule 2 Penalty Calculations - Problem Statement",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-02-1---schedule-2-penalty-calculations---problem-statement.pdf"
     },
     "69f475086e084402f4ad2ac1d769fc4c31e6917dd151c4a305193e90a956308a": {
       "content_sha256": null,
@@ -1456,6 +1666,21 @@
       "title": "MIC Work Plan",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260204/20260204-mic-work-plan.pdf"
     },
+    "bab27e814afc7dfe3ec747517e1d83ce1eb3c66932879af16bb3d2fb0240349c": {
+      "content_sha256": "0c8f3275a917ac4a42d0f5307d66d66011a58895b7c86b7f7d4c77939ea76da4",
+      "extension": "pdf",
+      "file_name": "20260506-item-01-3---manual-15-revisions-on-regulation-redesign-phase-2---redline.pdf",
+      "fingerprint": "bab27e814afc7dfe3ec747517e1d83ce1eb3c66932879af16bb3d2fb0240349c",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 01-3 - Manual 15 Revisions on Regulation Redesign Phase 2 - Redline",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-01-3---manual-15-revisions-on-regulation-redesign-phase-2---redline.pdf"
+    },
     "bc54a7cc97b0c26d30b11be26a18aa689e6f3b81939addf0223de459943375e1": {
       "content_sha256": null,
       "extension": "pdf",
@@ -1561,6 +1786,21 @@
       "title": "Item 03-2 - Flexible Resource Definition - Issue Charge",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260107/20260107-item-03-2---flexible-resource-definition---issue-charge.pdf"
     },
+    "c5421aa47dec185a765c97bd18f44f86e911f594108ed6da0a365821e3c3b2ba": {
+      "content_sha256": "0782e63be21fc287ac95d3b6cfe5316fa5d5e20c485fd1bed366b1fc6ec5c995",
+      "extension": "xls",
+      "file_name": "20260506-item-03-2---options--packages-matrix---flexible-resource-lost-opportunity-cost-eligibility.xls",
+      "fingerprint": "c5421aa47dec185a765c97bd18f44f86e911f594108ed6da0a365821e3c3b2ba",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 03-2 - Options & Packages Matrix - Flexible Resource Lost Opportunity Cost Eligibility",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-03-2---options--packages-matrix---flexible-resource-lost-opportunity-cost-eligibility.xls"
+    },
     "c568b879421a095566482b3e9ffeb8e730ad0c7384137949dc341a3f1d3139a4": {
       "content_sha256": null,
       "extension": "pdf",
@@ -1636,6 +1876,36 @@
       "title": "Item 02 - Manual 15 Biennial Revisions - Presentation",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260408/20260408-item-02---manual-15-biennial-revisions---presentation.pdf"
     },
+    "d1d849e32e9ad4f67f2d66842a434542683783a18bd9fa032b7aa4373eec503e": {
+      "content_sha256": "e1611c83d4eb634bbc6de9b8100baf7f794b8c8da5a9156d18ecaa839b4f16de",
+      "extension": "pdf",
+      "file_name": "20260506-item-05---bor-credit-reform---tracking-ramp-limit-desired-mw-calculation---presentation.pdf",
+      "fingerprint": "d1d849e32e9ad4f67f2d66842a434542683783a18bd9fa032b7aa4373eec503e",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 05 - BOR Credit Reform - Tracking Ramp Limit Desired MW Calculation - Presentation",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-05---bor-credit-reform---tracking-ramp-limit-desired-mw-calculation---presentation.pdf"
+    },
+    "d20d804e1b7a636feaed846404ab03edb9ae0b4109ac58d55bd81f2b803b26a4": {
+      "content_sha256": "697014b2369398f13b7896537c9a42fc8315cead8279f0e5fd144c3416f42f77",
+      "extension": "xls",
+      "file_name": "20260506-item-09-2---options--packages-matrix---resource-scheduling-prior-to-the-day-ahead-energy-market---phase-2.xls",
+      "fingerprint": "d20d804e1b7a636feaed846404ab03edb9ae0b4109ac58d55bd81f2b803b26a4",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 09-2 - Options & Packages Matrix - Resource Scheduling Prior to the Day-Ahead Energy Market - Phase 2",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-09-2---options--packages-matrix---resource-scheduling-prior-to-the-day-ahead-energy-market---phase-2.xls"
+    },
     "d37826410bbba1473be1d849f8f63597203f447940f7012d2c8d7a618a7a4988": {
       "content_sha256": null,
       "extension": "pdf",
@@ -1680,6 +1950,21 @@
       "summary_mode": "baseline",
       "title": "Draft Minutes - Special MIC - 2026.1.20",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260120/draft-minutes---special-mic---2026120.pdf"
+    },
+    "e074331803c42012329b0351268a645070dbbaaaba7216955854b09dd080a092": {
+      "content_sha256": "c70164dfb2846566f1551b9e9465058923f9ad4e94490e1e7d151ceaaad8f349",
+      "extension": "pdf",
+      "file_name": "20260506-item-02-2---schedule-2-penalty-calculations---issue-charge.pdf",
+      "fingerprint": "e074331803c42012329b0351268a645070dbbaaaba7216955854b09dd080a092",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 02-2 - Schedule 2 Penalty Calculations - Issue Charge",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-02-2---schedule-2-penalty-calculations---issue-charge.pdf"
     },
     "e2b3c29163acc91932f65d8f0b5a1fa0f5438492bad3c3e9ff55ea0734cd9cd0": {
       "content_sha256": null,
@@ -1996,6 +2281,21 @@
       "title": "Item 0 - Virtual Open House - Regulation Market Redesign Phase 2 - March 30 2026",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260311/20260311-item-0---virtual-open-house---regulation-market-redesign-phase-2---march-30-2026.pdf"
     },
+    "fc7055340ade7a778c26b1b182a7236fd3b377c5102f9ad00403f3c5e1f45bd8": {
+      "content_sha256": "2efaae015658ccda83dcfaa0bcfd756390ef572d6a200c2e4c657fb96022ec12",
+      "extension": "docx",
+      "file_name": "20260506-agenda-doc.docx",
+      "fingerprint": "fc7055340ade7a778c26b1b182a7236fd3b377c5102f9ad00403f3c5e1f45bd8",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Agenda-doc",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-agenda-doc.docx"
+    },
     "fd0a5b8ceef849b64e24cc49ea9d8cda16872829b23d6fc51f95c52817d42a3c": {
       "content_sha256": null,
       "extension": "pdf",
@@ -2010,6 +2310,21 @@
       "summary_mode": "baseline",
       "title": "Agenda",
       "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260107/20260107-agenda.pdf"
+    },
+    "fd35115bc1a215b4cf5ef030e6263695673114049b796923b735ebbba20ba1c2": {
+      "content_sha256": "0f67840fe88a26bbeb67edc41a5c43ad93ebead2be1a0e2eda8d3a2742ac0155",
+      "extension": "pdf",
+      "file_name": "20260506-item-03-1---flexible-resource-lost-opportunity-cost-eligibility---presentation.pdf",
+      "fingerprint": "fd35115bc1a215b4cf5ef030e6263695673114049b796923b735ebbba20ba1c2",
+      "meeting_date": "2026-05-06",
+      "meeting_label": "5.6.2026 - Market Implementation Committee",
+      "meeting_title": "Market Implementation Committee",
+      "published_on": "2026-04-29",
+      "source_id": "pjm-mic",
+      "source_name": "PJM Market Implementation Committee",
+      "summary_mode": "local_preview",
+      "title": "Item 03-1 - Flexible Resource Lost Opportunity Cost Eligibility - Presentation",
+      "url": "https://www.pjm.com/-/media/DotCom/committees-groups/committees/mic/2026/20260506/20260506-item-03-1---flexible-resource-lost-opportunity-cost-eligibility---presentation.pdf"
     },
     "fe37b7b85c26e0c1e368fb84209463d51edaac52c7bbea979fe49a12d2f09345": {
       "content_sha256": null,
